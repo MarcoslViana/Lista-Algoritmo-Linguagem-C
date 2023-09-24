@@ -1,2 +1,2 @@
-# Lista de questões Algoritmo e Lógica de Programação - Linguagem C
+# Lista de questões resolvidas da disciplina algoritmo e lógica de programação - Linguagem C
  
